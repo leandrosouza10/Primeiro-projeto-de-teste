@@ -1,7 +1,7 @@
 ## Primeiro-projeto-de-teste 
 
 Projeto criado nas aulas da Qazando.
-Objetivo, criar um cadastro de usuário com sucesso.
+Objetivo, criar um novo cadastro de usuário com sucesso.
 A  linguagem usada para o projeto foi Java.
 
 
