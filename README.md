@@ -1,6 +1,6 @@
 # Primeiro-projeto-de-teste do site automation practice
 
-Projeto criado nas aulas da Qazando.
+Projeto construido nas aulas da Qazando.
 Objetivo, criar um novo cadastro de usuário.
 A  linguagem usada para o projeto foi Java.
 
