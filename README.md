@@ -1,4 +1,4 @@
-# Primeiro-projeto-de-teste 
+# Primeiro-projeto-de-teste do site automation practice
 
 Projeto criado nas aulas da Qazando.
 Objetivo, criar um novo cadastro de usuário.
